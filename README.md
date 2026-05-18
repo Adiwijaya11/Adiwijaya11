@@ -1,39 +1,66 @@
-# Adi Wijaya
-**Software Engineer | Android & Laravel Specialist**
+<div align="center">
+  
+  <h1>I Made Adi Wijaya</h1>
+  <p><b>Software Engineer | Full-Stack & Android Specialist</b></p>
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/imadeadiwijaya"> <!-- Ganti dengan URL spesifik LinkedIn Anda -->
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:madeeadiwijaya@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
----
-
-### 👨‍💻 About Me
-I engineer high-performance mobile and web applications, focusing on scalable architecture, clean code, and optimal user experiences. I prioritize systems that are not only robust under the hood but also intuitive for the end-user.
-
-### 🛠️ Technical Stack
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
 <br>
 
-### 🚀 Engineering Highlights
+### <img src="https://icongr.am/feather/user.svg?size=24&color=777777" align="top" /> Rekayasa & Filosofi Desain
+Saya merancang dan membangun ekosistem perangkat lunak yang berfokus pada skalabilitas, arsitektur *clean code*, dan efisiensi performa. Pendekatan saya selalu mengutamakan *usability* tingkat tinggi, memastikan bahwa kompleksitas logika di *backend* diterjemahkan menjadi antarmuka yang intuitif bagi pengguna akhir.
 
-*   **Retail Management System**
-    *Engineered an Android-based point-of-sale application featuring real-time stock monitoring, integrated cashier logic, and seamless state management.*
-*   **[Nama Proyek Backend/Laravel Anda]**
-    *[Deskripsikan dalam 1 kalimat fokus Anda pada optimasi rute, database, atau performa]*
+<br>
+
+### <img src="https://icongr.am/feather/code.svg?size=24&color=777777" align="top" /> Arsitektur Teknologi
+
+**Bahasa & Framework**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,php,laravel,java,kotlin,mysql&perline=10" alt="Tech Stack" />
+</a>
+
+<br>
+
+**Development Tools**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio&perline=5" alt="Dev Tools" />
+</a>
+
+<br>
+
+**AI & Productivity Ecosystem**
+<br>
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Anigravity-000000?style=for-the-badge&logo=awesomelists&logoColor=white" alt="Anigravity" />
+
+<br>
+
+### <img src="https://icongr.am/feather/box.svg?size=24&color=777777" align="top" /> Portofolio Sistem
+
+*   **Retail Management & POS System**
+    *Membangun aplikasi Android untuk manajemen ritel yang mengintegrasikan monitoring stok real-time dengan logika kasir yang presisi.*
+*   **[Nama Proyek Laravel/Web Anda]**
+    *[Deskripsikan sistem backend atau web app yang Anda bangun menggunakan Laravel, PHP, dan MySQL]*
+*   **[Nama Proyek React JS Anda]**
+    *[Deskripsikan implementasi antarmuka dinamis yang Anda bangun menggunakan React dan Tailwind CSS]*
+
+<br>
 
 ---
-
-### 📫 Let's Connect
-
-<div align="left">
-  <a href="URL_LINKEDIN_ANDA">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:email.anda@domain.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<div align="center">
+  <img src="https://icongr.am/feather/activity.svg?size=20&color=777777" align="top" /> 
+  <i>Dirancang dengan prinsip efisiensi dan beban kognitif minimal.</i>
 </div>
