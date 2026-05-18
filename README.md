@@ -62,7 +62,7 @@ Untuk menjaga efisiensi kognitif (<i>cognitive load</i>) pada halaman ini, rinci
 <br>
 
 <div align="left">
-  <a href="MASUKAN_URL_PORTOFOLIO_ANDA_DISINI">
+  <a href="[MASUKAN_URL_PORTOFOLIO_ANDA_DISINI](https://adiwijaya11.github.io/portofolio-adiwijaya/)">
     <img src="https://img.shields.io/badge/Portofolio_|_Adiwijaya-1A1A1A?style=for-the-badge&logo=safari&logoColor=white" alt="Portofolio Adiwijaya" />
   </a>
 </div>
