@@ -1,44 +1,39 @@
-# 👨‍💻 [Nama Lengkap Anda]
-
-**Software Developer**
-
-I build scalable backend systems, intuitive mobile applications, and focus on delivering high-performance software. I approach development with a strong emphasis on clean code architecture and user-centered design principles.
+# Adi Wijaya
+**Software Engineer | Android & Laravel Specialist**
 
 ---
 
-### 🛠️ Technical Arsenal
+### 👨‍💻 About Me
+I engineer high-performance mobile and web applications, focusing on scalable architecture, clean code, and optimal user experiences. I prioritize systems that are not only robust under the hood but also intuitive for the end-user.
 
-**Core Technologies**
-*   **Mobile Development:** Android (Java)
-*   **Backend Framework:** Laravel (PHP)
-*   **Database:** MySQL / PostgreSQL
-
-**Tools & Practices**
-*   Git & Version Control
-*   RESTful API Development
-*   System & Hardware Optimization
-*   Usability Evaluation (Heuristics)
-
----
-
-### 🚀 Featured Projects
-
-*   **Retail Management System:** An Android-based point-of-sale and stock monitoring application featuring real-time state management and cashier logic. 
-*   *[Tambahkan Proyek Lain]*: *[Deskripsi singkat 1-2 kalimat mengenai masalah yang diselesaikan oleh sistem ini]*
-
----
-
-### 📈 GitHub Analytics
+### 🛠️ Technical Stack
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&hide_border=true&bg_color=00000000&text_color=777777&icon_color=333333&title_color=333333" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_ANDA&layout=compact&hide_border=true&bg_color=00000000&text_color=777777&title_color=333333" height="150" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
-*(Catatan: Ganti `USERNAME_GITHUB_ANDA` dengan username asli Anda pada URL gambar di atas)*
+<br>
+
+### 🚀 Engineering Highlights
+
+*   **Retail Management System**
+    *Engineered an Android-based point-of-sale application featuring real-time stock monitoring, integrated cashier logic, and seamless state management.*
+*   **[Nama Proyek Backend/Laravel Anda]**
+    *[Deskripsikan dalam 1 kalimat fokus Anda pada optimasi rute, database, atau performa]*
 
 ---
 
-### 📬 Let's Connect
+### 📫 Let's Connect
 
-[LinkedIn](Tautan_LinkedIn_Anda) • [Portfolio](Tautan_Web_Anda) • [Email](mailto:emailanda@domain.com)
+<div align="left">
+  <a href="URL_LINKEDIN_ANDA">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:email.anda@domain.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
