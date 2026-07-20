@@ -60,7 +60,7 @@ Peralatan dan teknologi yang saya gunakan untuk membangun solusi digital:
 Di bawah ini adalah statistik performa coding dan kontribusi saya di GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiwijaya11&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Adi Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adiwijaya11&show_icons=true&theme=radical&hide_border=true" alt="Adi Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiwijaya11&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
