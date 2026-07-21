@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Banner Bagian Atas (Ganti link dengan banner buatanmu di Canva/Figma) -->
+  <!-- Banner Bagian Atas menggunakan file img.png di repository -->
   <p>
-    <img src="LINK_GAMBAR_BANNER_KAMU" width="100%" />
+    <img src="img.png" width="100%" />
   </p>
 
   <!-- Nama dan Title -->
