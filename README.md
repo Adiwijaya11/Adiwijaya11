@@ -1,27 +1,31 @@
 <div align="center">
-
-  <!-- Banner Bagian Atas menggunakan file img.png di repository -->
-  <p>
-    <img src="img.png" width="100%" />
-  </p>
-
-  <!-- Nama dan Title -->
+  <img src="img.png" width="100%" />
   <h2>Muhammad Raja Daffa</h2>
   <p><b>Software Engineer • SaaS Builder • UI/UX</b></p>
-
-  <!-- Tagline / Bio Singkat -->
   <p><em>Ex streamer minecraft lanjut jadi anak IT</em></p>
-
-  <!-- Link Media Sosial / Portfolio -->
   <p>
     <a href="LINK_PORTFOLIO">Portfolio</a> • 
-    <a href="LINK_LINKEDIN">LinkedIn</a> • 
-    <a href="LINK_TIKTOK">Tiktok</a> • 
+    <a href="https://www.linkedin.com/in/i-made-adi-wijaya-linkedin">LinkedIn</a> • 
+    <a href="https://www.tiktok.com/@imadeadiwijaya11">Tiktok</a> • 
+    <a href="https://www.instagram.com/imadeadiwijaya11">Instagram</a> • 
     <a href="mailto:EMAIL_KAMU">Email</a>
   </p>
-
 </div>
 
 <br>
 
-<!-- Batas awal untuk masuk ke section Tech Stack di bawahnya -->
+### Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,java,react,kotlin,flutter,mysql,vscode" />
+</div>
+
+<br>
+
+### Tools & AI
+<div align="center">
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=antigravity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-0066FF?style=for-the-badge&logo=deepseek&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
+</div>
