@@ -1,6 +1,6 @@
 <div align="center">
   <img src="img.png" width="100%" />
-  <h2>Muhammad Raja Daffa</h2>
+  <h2>I MAde Adi Wijaya</h2>
   <p><b>Software Engineer • SaaS Builder • UI/UX</b></p>
   <p><em>Ex streamer minecraft lanjut jadi anak IT</em></p>
   <p>
