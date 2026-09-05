@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Adiwijaya11/Adiwijaya11/output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/Adiwijaya11/Adiwijaya11/output/pacman-contribution-graph-dark.svg"
     alt="Pac-Man Contribution Graph"
   />
 </p>
